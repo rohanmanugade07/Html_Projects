@@ -1,0 +1,320 @@
+*
+{
+	margin:0 auto;
+	padding:0px;
+	
+	
+}
+.mainwrapper
+{
+	width:1300px;
+	height:2100px;
+	
+}
+#top
+{
+	
+	height:72px;
+	background:#212121;
+	
+}
+#top img
+{
+	width:70px;
+	height:70px;
+	margin-left:5px;
+}
+#top ul
+{
+   margin-top:-48px;
+   margin-left:130px;
+}
+#top ul li
+{
+	display:inline-block;
+	color:#9c9a9b;
+	margin-left:51px;
+	font-family:Arial;
+	font-size:16px;
+}
+#cart li
+{
+   float:right;
+   margin-right:49px;
+   margin-top:29px;
+}
+
+#mainimg img
+{
+	width:1263px;
+	height:600px;
+}
+
+#mainimg h3
+{
+	margin-top:-177px;
+	margin-left:758px;
+	font-family:Arial;
+	font-size:24px;
+	color:#4484e5;
+}
+#mainimg input
+{
+	margin-left:759px;
+	margin-top:45px;
+	height:50px;
+	background-color:#e57509;
+    border:10px;
+	border-radius:22px;
+}
+#btn a
+{
+	color:white;
+	margin-left:-123px;
+	text-decoration:none;
+}
+.content 
+{
+	height:967px;
+}
+.content img
+{
+	width:420px;
+	height:304px;
+	margin-top:15px;
+	margin-left:-4px;
+}
+.content h2
+{
+	margin-left:471px;
+	margin-top:41px;
+	font-family:Arial;
+	font-size:32px;
+	color:#8fc8e6;
+}
+#mobsp
+{   position:relative;
+	top:-21px;
+}
+#spec img
+{
+
+	margin-top:-11px;
+	height:360px;
+	width:580px;
+	margin-left:-111px;
+}
+
+#spec1
+{
+	float:right;
+	margin-top:-454px;
+	margin-right:163px;
+	
+}
+
+#spec2
+{
+	margin-left:471px;
+	position:relative;
+	top:-300px;
+}
+#spec2 h4
+{
+	color:#787878;
+	font-family:Arial;
+	font-size:12px;
+}
+#spec1 h4
+{
+	color:#787878;
+	font-family:Arial;
+	font-size:12px;
+}
+#spec2 h3
+{
+	color:#131313;
+	font-family:Arial;
+	font-size:17px;
+}
+#spec1 h3
+{
+	color:#131313;
+	font-family:Arial;
+	font-size:17px;
+}
+#spec1 p a
+{
+	 position:relative;
+    top:80px;
+	margin-left:-366px;
+	font-family:Arial;
+	font-size:17px;
+	text-decoration:none;
+}
+.social
+{
+	position:relative;
+	top: -155px;
+	height:180px;
+	background-color:#01acc8;
+}
+#touch 
+{
+	margin-left:56px;
+	position:relative;
+    top:60px;
+}
+#touch h3
+{
+	font-family:Arial;
+	font-size:20px;
+	color:#ffffff;
+	margin-left:10px;
+}
+
+#touch  p
+{
+	font-family:Arial;
+	font-size:15px;
+	color:white;
+}
+#serch
+{
+	text-align:center;
+	margin-top:10px;
+	margin-left:-130px;
+	color:white;
+	
+}
+#serch input
+{
+	height:41px;
+	width:420px;
+}
+#sbutton input
+{
+	width:92px;
+	margin-left:554px;
+	position:relative;
+	top:-61px;
+	height:43px;
+	
+}
+#serch img
+{
+	position:relative;
+	top:-144px;
+	margin-left:909px;
+	width:255px;
+	height:75px;
+}
+.foter
+{
+	height:446px;
+	background-color:#212121;
+	padding-top: 7px;
+	margin-top: -155px;
+}
+.foter a
+{
+	text-decoration:none;
+}
+#moto
+{
+	display:inline-block;
+}
+#moto p
+{
+	margin-left:117px;
+	margin-top:80px;
+	line-height:33px;
+	color:white;
+	font-family:Arial;
+	font-size:15px;
+}
+#moto h3
+{
+	margin-left:117px;
+	position:relative;
+	top:35px;
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+}
+#motohome 
+{
+	display:inline-block;
+	margin-top:3px;
+	
+	
+    margin-left:150px; 
+}
+#motohome h3
+{
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+}
+#motohome p
+{
+	margin-top:80px;
+	line-height:33px;
+	color:white;
+	font-family:Arial;
+	font-size:15px;
+	position:relative;
+	top:-35px;
+}
+#support
+{
+	display:inline-block;
+	margin-top:5px;
+    margin-left:127px;
+	top:-162px;
+	position:relative;
+}
+#support h3
+{
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+}
+#support p
+{
+	margin-top:80px;
+	line-height:33px;
+	color:white;
+	font-family:Arial;
+	font-size:15px;
+	position:relative;
+	top:-35px;
+}
+#about
+{
+	margin-top:5px;
+    margin-left:5px;
+	top:-198px;
+	position:relative;
+	display:inline-block;
+}
+#about h3
+{
+	color:white;
+	font-family:Arial;
+	font-size:20px;
+	margin-left:130px;
+}
+#about p
+{
+	margin-top:45px;
+	line-height:33px;
+	color:white;
+	font-family:Arial;
+	font-size:15px;
+	margin-left:122px;
+}
+.foter h3, p
+{
+	color:#9c9a9b;
+}
